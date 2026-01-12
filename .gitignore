@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Environment
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Database
+*.sql
+*.sql.gz
+*.sqlite3
+
+# Temporary files
+*.tmp
+*.temp
+
+# Video files (large files)
+*.mp4
+*.avi
+*.mov
+*.wmv
+
+# Model files
+*.pt
+*.pth
+*.onnx
+
+# YAML config (optional)
+# vehicles.yaml
+
+# Warning frames
+warning_frames/

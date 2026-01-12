@@ -1,0 +1,10 @@
+names:
+- bicycle
+- car
+- motorcycle
+- bus
+- truck
+nc: 5
+path: E:\coco\coco_yolo_vehicles
+train: E:/coco/coco_yolo_vehicles\images/train
+val: E:/coco/coco_yolo_vehicles\images/val
